@@ -1,0 +1,17 @@
+C:\Users\unver\source\repos\SiralamaAlgoritmalariTest\SiralamaAlgoritmalariTest\bin\Debug\SiralamaAlgoritmalariTest.exe.config
+C:\Users\unver\source\repos\SiralamaAlgoritmalariTest\SiralamaAlgoritmalariTest\bin\Debug\SiralamaAlgoritmalariTest.exe
+C:\Users\unver\source\repos\SiralamaAlgoritmalariTest\SiralamaAlgoritmalariTest\bin\Debug\SiralamaAlgoritmalariTest.pdb
+C:\Users\unver\source\repos\SiralamaAlgoritmalariTest\SiralamaAlgoritmalariTest\obj\Debug\SiralamaAlgoritmalariTest.Form1.resources
+C:\Users\unver\source\repos\SiralamaAlgoritmalariTest\SiralamaAlgoritmalariTest\obj\Debug\SiralamaAlgoritmalariTest.Properties.Resources.resources
+C:\Users\unver\source\repos\SiralamaAlgoritmalariTest\SiralamaAlgoritmalariTest\obj\Debug\SiralamaAlgoritmalariTest.csproj.GenerateResource.cache
+C:\Users\unver\source\repos\SiralamaAlgoritmalariTest\SiralamaAlgoritmalariTest\obj\Debug\SiralamaAlgoritmalariTest.csproj.CoreCompileInputs.cache
+C:\Users\unver\source\repos\SiralamaAlgoritmalariTest\SiralamaAlgoritmalariTest\obj\Debug\SiralamaAlgoritmalariTest.exe
+C:\Users\unver\source\repos\SiralamaAlgoritmalariTest\SiralamaAlgoritmalariTest\obj\Debug\SiralamaAlgoritmalariTest.pdb
+C:\Users\unver\source\repos\SiralamaAlgoritmalariTest\SiralamaAlgoritmalariTest\bin\Debug\MetroFramework.dll
+C:\Users\unver\source\repos\SiralamaAlgoritmalariTest\SiralamaAlgoritmalariTest\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\unver\source\repos\SiralamaAlgoritmalariTest\SiralamaAlgoritmalariTest\obj\Debug\SiralamaAlgoritmalariTest.csproj.CopyComplete
+C:\Users\unver\source\repos\SiralamaAlgoritmalariTest\SiralamaAlgoritmalariTest\bin\Debug\CircularProgressBar.dll
+C:\Users\unver\source\repos\SiralamaAlgoritmalariTest\SiralamaAlgoritmalariTest\bin\Debug\WinFormAnimation.dll
+C:\Users\unver\source\repos\SiralamaAlgoritmalariTest\SiralamaAlgoritmalariTest\bin\Debug\CircularProgressBar.xml
+C:\Users\unver\source\repos\SiralamaAlgoritmalariTest\SiralamaAlgoritmalariTest\bin\Debug\WinFormAnimation.xml
+C:\Users\unver\source\repos\SiralamaAlgoritmalariTest\SiralamaAlgoritmalariTest\obj\Debug\SiralamaAlgoritmalariTest.csprojAssemblyReference.cache
